@@ -106,16 +106,35 @@ I love clean code, continuous learning, and solving real-world problems.
   <img src="https://img.shields.io/badge/OLAP-2E8B57?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/KNN-DC143C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/K--Means-8B008B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Medallion_Architecture-CD7F32?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Infrastructure_as_Code-7B42BC?style=for-the-badge"/>
 </p>
 
 </details>
- 
+ <details>
+<summary>☁️ <b>Cloud & Data Engineering</b></summary>
+<br>
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_Synapse-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+</details>
+
 ### 🚀 Featured Projects
  
 | Project | Description | Stack |
 |---|---|---|
+| ☁️ [Azure Data Lake Analytics](https://github.com/JIHANE-BOUGRINE/Data-Lake-Analytics) | End-to-end e-commerce data platform on Azure: Medallion architecture, automated pipeline, constellation model for BI, infrastructure as code | Azure Data Factory · Synapse Spark · ADLS Gen2 · Terraform · Power BI |
 | 🎬 Movie Recommendation System | Content-based recommender using cosine similarity | Python · Pandas · Scikit-learn · Streamlit |
 | 🏭 Data Warehouse SNCF | Full ETL pipeline with star schema & BI dashboards | Talend · SQL Server · Power BI |
 | 🏥 Hospital Intranet | Secure internal web platform for document sharing | PHP · MySQL · JS · AJAX |
 | ♿ Smart Guide Belt | Intelligent belt for visually impaired people | Embedded Systems · Ultrasonic · GPS |
+
 
